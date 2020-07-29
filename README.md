@@ -1,5 +1,5 @@
 # Invisibe_Cloak
-This is a programme which can make you feel like "Harry Potter" with some basic Computer Vision Techniques.
+This is a program which can make you feel like "Harry Potter" with some basic Computer Vision Techniques.
 
 <h3>Prerequistes to run the code</h3>
   <ul>
